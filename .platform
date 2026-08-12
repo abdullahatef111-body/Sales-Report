@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "dataset pi"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "09e8a02a-5e1e-43c2-930f-2137437da472"
+  }
+}
