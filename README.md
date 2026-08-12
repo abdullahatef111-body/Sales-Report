@@ -1,3 +1,4 @@
+<img width="1920" height="1080" alt="Screenshot 2026-08-12 200647" src="https://github.com/user-attachments/assets/b74bdc70-f6e8-43d8-8796-fa69581c72bf" />
 # Sales-Report
 # 📊 Power BI Analytics Dashboard
 
